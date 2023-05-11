@@ -1,0 +1,19 @@
+{
+    "832435373672": {
+        "daily": [
+            "arn:aws:dynamodb:ap-southeast-2:832435373672:table/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:instance/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:volume/*"
+        ],
+        "weekly": [
+            "arn:aws:dynamodb:ap-southeast-2:832435373672:table/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:instance/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:volume/*"
+        ],
+        "monthly": [
+            "arn:aws:dynamodb:ap-southeast-2:832435373672:table/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:instance/*",
+            "arn:aws:ec2:ap-southeast-2:832435373672:volume/*"
+        ]
+    }
+}
